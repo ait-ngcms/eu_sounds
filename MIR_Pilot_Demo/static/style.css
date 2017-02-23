@@ -1,0 +1,25 @@
+body        { background: #E8EFF0; margin: 0; padding: 0; }
+body, input { font-family: 'Helvetica Neue', Arial,
+              sans-serif; font-weight: 300; font-size: 18px; }
+.box        { width: 1000px; margin: 60px auto; padding: 20px;
+              background: white; box-shadow: 0 1px 4px #BED1D4;
+              border-radius: 2px; }
+.result     { width: 900px; margin: 60px auto; padding: 20px;
+              background: #eeeeee; box-shadow: 0 1px 4px #BED1D4;
+              border-radius: 2px;
+              font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+              font-size: 11pt;
+			  font-style: normal;
+			  font-variant: normal;}
+a           { color: #11557C; }
+h1          { margin: 0; color: #11557C; text-align: center}
+h2          { margin: 0; color: #11557C; text-align: left}
+h1 a        { text-decoration: none; }
+h2          { font-weight: normal; font-size: 24px; }
+.tagline    { color: #888; font-style: italic; margin: 0 0 20px 0; text-align: center }
+.link div   { overflow: auto; font-size: 0.8em; white-space: pre;
+              padding: 4px 10px; margin: 5px 0; background: #E5EAF1; }
+dt          { font-weight: normal; }
+.error      { background: #E8EFF0; padding: 3px 8px; color: #11557C;
+              font-size: 0.9em; border-radius: 2px; }
+.urlinput   { width: 300px; }
